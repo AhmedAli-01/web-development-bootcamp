@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    width: 80%;
+    border: 5px solid red;
+    
+}
+.cards{
+    border: 2px solid black;
+    padding: 60px;
+    margin: 20px;
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    float: left;
+
+}
+p {
+    height: 80px;
+    width: 100px;
+    border: 2px solid red;
+}
