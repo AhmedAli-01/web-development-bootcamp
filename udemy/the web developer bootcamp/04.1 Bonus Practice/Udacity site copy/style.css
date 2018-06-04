@@ -1,0 +1,36 @@
+.wrapper{
+	margin: 0 auto;
+	width: 90%;
+	height: 800px;
+	border:20px solid red;
+	background-color: lightgrey;
+}
+
+
+
+.headnav{
+
+	
+	background-color: #43AEC1;
+
+	height: 96px;
+	margin: 14px;
+
+}
+.headnavicons{
+	float: left;
+	padding: 20px auto;
+	margin: 7px;
+	text-transform: uppercase;
+}
+.herosection {
+	height: 480px;
+	background-color: #19C1BD;
+}
+
+
+.card {
+	border:1px solid black;
+	padding: 10px;
+	margin: 20px;
+}

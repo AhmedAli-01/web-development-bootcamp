@@ -1,0 +1,17 @@
+
+body{
+	background-color: green;
+}
+
+ol{
+	color: white;
+}
+
+#special
+{
+	color: red;
+}
+
+.usingclass{
+	color: yellow;
+}
