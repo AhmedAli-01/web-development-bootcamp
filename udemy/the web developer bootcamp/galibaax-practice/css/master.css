@@ -1,9 +1,14 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
 body{
   background: url(../img/lion.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   font-family: Lato;
-  color: white;
+  color: black;
 }
 
 html{
